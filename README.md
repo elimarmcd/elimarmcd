@@ -1,8 +1,7 @@
 ### Olá, eu sou o Elimar Alberti 🙋‍♂️
 Sou um profissional dedicado e inovador, formado em Análise e Desenvolvimento de Sistemas, atualmente atuando como desenvolvedor front-end e cursando Pós-Graduação em Desenvolvimento Full Stack.
 
-In english
-I'm dedicated and innovative professional with a degree in Systems and AnalysisDevelopment, currently working as a front-end developer role and engaged on a Postgraduate degree in Full Stack Development.
+Translated, I'm dedicated and innovative professional with a degree in Systems and AnalysisDevelopment, currently working as a front-end developer role and engaged on a Postgraduate degree in Full Stack Development.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elimaralberti/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vercel.com/elimarmcds-projects)
@@ -10,7 +9,7 @@ I'm dedicated and innovative professional with a degree in Systems and AnalysisD
 
 ![Alberti GitHub stats](https://github-readme-stats.vercel.app/api?username=elimarmcd&show_icons=true&theme=dark)
 
-### ✔️ Tecnologias em desenvolvimento
+### ✔️ Tecnologias em desenvolvimento (Technologies in development)
 <div style="display": inline_block><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -23,7 +22,7 @@ I'm dedicated and innovative professional with a degree in Systems and AnalysisD
         
 </div>
 
-### 👉 Meus OS preferidos
+### 👉 Meus OS preferidos (My 5 favorites)
 <div style="display": inline_block><br/>
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img align="center" alt="CentOS" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
@@ -31,3 +30,5 @@ I'm dedicated and innovative professional with a degree in Systems and AnalysisD
 </div><br/>
 
 Apaixonado por tecnologia há mais de 20 anos, por música e por estar em constate evolução.
+
+Passionate about technology for over 20 years, music and constantly evolving.

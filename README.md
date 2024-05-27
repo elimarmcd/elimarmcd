@@ -1,7 +1,11 @@
 ### Olá, eu sou o Elimar Alberti 🙋‍♂️
 Sou um profissional dedicado e inovador, formado em Análise e Desenvolvimento de Sistemas, atualmente atuando como desenvolvedor front-end e cursando Pós-Graduação em Desenvolvimento Full Stack.
 
+### Minhas certificações: https://github.com/elimarmcd/certificacoes
+
 Translated, I'm dedicated and innovative professional with a degree in Systems and AnalysisDevelopment, currently working as a front-end developer role and engaged on a Postgraduate degree in Full Stack Development.
+
+### My cerfications: https://github.com/elimarmcd/certificacoes
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elimaralberti/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vercel.com/elimarmcds-projects)
